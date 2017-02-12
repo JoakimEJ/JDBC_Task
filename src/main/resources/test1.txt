@@ -1,0 +1,6 @@
+Navn/Adresse/Alder
+STRING/STRING/INT
+128/128/3
+Donald Duck/Uflaksveien 13/60
+Fetter Anton/Flakseveien 1/50
+Dolly Duck/Andebygården 2/55

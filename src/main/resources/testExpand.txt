@@ -1,0 +1,5 @@
+Firstname/Lastname/Phone/Hobby
+VARCHAR/VARCHAR/INT/VARCHAR
+32/32/8/10
+Jompa/Lainen/92294368/Climbing
+Konrad/Ladesen/42689081/Woodwork
